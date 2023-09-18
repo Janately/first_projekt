@@ -1,0 +1,8 @@
+djangorestframework~=3.14.0
+djangorestframework-simplejwt
+drf-yasg
+pillow
+python-decouple
+django-filter
+psycopg2-binary
+Django~=4.2.5
